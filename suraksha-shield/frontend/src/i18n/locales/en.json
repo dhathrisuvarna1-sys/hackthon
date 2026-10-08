@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "Home",
+    "scan": "Scan",
+    "learn": "Learn",
+    "history": "History"
+  },
+  "home": {
+    "eyebrow": "DIGITAL PAYMENT SAFETY",
+    "title": "Not sure if a message is real? Check before you trust it.",
+    "desc": "Check suspicious SMS, payment requests and screenshots in seconds.",
+    "checkMessage": "Check a Message",
+    "scanScreenshot": "Scan a Screenshot",
+    "checkUpi": "Check a UPI Request",
+    "availableIn": "Available in English, ಕನ್ನಡ and हिंदी"
+  },
+  "preview": {
+    "label": "EXAMPLE, NOT A REAL SCAN",
+    "sms": "Dear customer, your bank account will be blocked today. Complete KYC immediately at verify-kyc-example.test",
+    "badgeTitle": "Potential Scam",
+    "reason1": "Creates urgency (\"blocked today\")",
+    "reason2": "Sends you to an unverified website"
+  },
+  "footer": {
+    "disclaimer": "Educational purposes only. No affiliation with any bank or government agency.",
+    "report": "To report fraud: 1930 or cybercrime.gov.in",
+    "privacy": "Privacy: We never store your messages, images, or personal details."
+  },
+  "illustrations": {
+    "fakeKyc": {
+      "title": "Fake KYC Scam Illustration",
+      "desc": "A mobile phone showing an SMS with a red warning mark."
+    },
+    "otpTheft": {
+      "title": "OTP Theft Illustration",
+      "desc": "A mobile phone showing an OTP with a hand gesturing stop."
+    },
+    "lottery": {
+      "title": "Lottery Scam Illustration",
+      "desc": "A gift box with a rupee coin and a fishing hook attached."
+    },
+    "upiCollect": {
+      "title": "UPI Collect Illustration",
+      "desc": "Two phones showing money going out with a YOU PAY label."
+    },
+    "remoteAccess": {
+      "title": "Remote Access Illustration",
+      "desc": "A phone screen being watched by an external eye via screen sharing."
+    },
+    "fakeSupport": {
+      "title": "Fake Support Illustration",
+      "desc": "A bank building overlaid with a scammer's headset."
+    },
+    "suspiciousLink": {
+      "title": "Suspicious Link Illustration",
+      "desc": "A web address with a misspelled domain highlighted."
+    },
+    "safeSteps": {
+      "title": "Safe Steps Illustration",
+      "desc": "A shield with a checkmark and the fraud helpline number 1930."
+    }
+  },
+  "audio_scripts": {
+    "safe": "Low risk indicators detected. No obvious scam signs. However, verify independently to stay safe.",
+    "suspicious": "Please be careful. This message looks suspicious. It is recommended to verify the source.",
+    "scam": "Warning. This is likely a scam. Do not proceed, do not click any links, and report to 1930.",
+    "urgency": "The message tries to create fake urgency to make you panic.",
+    "suspicious_link": "It contains a link that does not look like a genuine website.",
+    "kyc_impersonation": "It pretends to be a KYC verification request.",
+    "credential_theft": "It asks for your secret PIN or OTP.",
+    "upi_collect": "This is a request to deduct money from your account, not to send you money.",
+    "refund_scam": "It falsely claims to be a refund or cashback."
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "type": "scam",
+    "category": "kyc",
+    "language": "en",
+    "text": "Dear customer, your bank account will be blocked today. Complete KYC immediately at verify-kyc-example.test",
+    "expected_risk": "High"
+  },
+  {
+    "id": "2",
+    "type": "scam",
+    "category": "lottery",
+    "language": "hi",
+    "text": "बधाई हो! आपके नंबर ने केबीसी लॉटरी में ₹25,00,000 जीते हैं। क्लेम करने के लिए ₹12,500 रजिस्ट्रेशन शुल्क जमा करें।",
+    "expected_risk": "High"
+  },
+  {
+    "id": "3",
+    "type": "safe",
+    "category": "payment_alert",
+    "language": "en",
+    "text": "Your account balance is $5,000. No action needed.",
+    "expected_risk": "Low"
+  },
+  {
+    "id": "4",
+    "type": "scam",
+    "category": "otp_theft",
+    "language": "kn",
+    "text": "ನಿಮ್ಮ ಖಾತೆಗೆ ₹5,000 ಕಳುಹಿಸುತ್ತಿದ್ದೇನೆ. ಹಣ ಪಡೆಯಲು ನಿಮ್ಮ ಯುಪಿಐ ಪಿನ್ ನಮೂದಿಸಿ.",
+    "expected_risk": "High"
+  }
+]

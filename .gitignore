@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python Virtual Environment
+venv/
+ENV/
+env/
+
+# Databases
+*.db
+*.sqlite3
+
+# Testing and Cache
+.pytest_cache/
+.cache/
+
+# IDEs and Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Node dependencies (Frontend)
+node_modules/
+.pnpm-store/
+.yarn/
+
+# Frontend Build directories
+dist/
+build/
+.next/
+out/
+
+# Capacitor / Mobile builds (Optional - if you only build locally)
+# frontend/android/
+# frontend/ios/
